@@ -1,0 +1,131 @@
+{
+  "fr": {
+    "about-link": "À propos",
+    "experience-link": "Exprérience",
+    "projects-link": "Projets",
+    "skills-link": "Compétences",
+    "contact-link": "Contact",
+
+    "hero.hi": "Salut, Je m'appelle",
+    "hero.text_1": "Je suis un jeune ingénieur diplômé de l'",
+    "hero.text_2": "Je recherche un poste d'ingénieur full stack, idéalement avec Django en",
+    "hero.text_3": "Backend et ReactJs en Frontend.",
+    "hero.btn_1.text": "En savoir plus",
+    "hero.btn_2.text": "Engagez moi",
+
+    "about.title": "Qui suis je ?",
+    "about.subtitle": "À propos de moi",
+    "about.text_1": "Un ingénieur logiciel passionné et énergique avec un",
+    "about.text_2": "esprit d'entrepreneur. J'ai des compétences en",
+    "about.text_3": "développement logiciel, en plus des",
+    "about.text_4": "connaissances théoriques dans ",
+    "about.text_5": "les domaines de l'IA et la Science des données.",
+
+    "experience.title": "Quelles sont mes expériences professionnelles ?",
+    "experience.table.head_1": "Expérience",
+    "experience.table.head_4": "Société",
+    "experience.table.body.row_1.cell_1": "Stage de fin d'études",
+    "experience.table.body.row_1.cell_4": "Société",
+    "experience.table.body.row_1.cell_2.text_1": "Développement d’une application web pour évaluer les aspects sociétaux des entreprises.",
+    "experience.table.body.row_1.cell_2.text_2": "Recherche scientifique sur les techniques utilisées dans les systèmes de recommandations.",
+    "experience.table.body.row_2.cell_1": "Développement Web Full stack",
+    "experience.table.body.row_2.cell_2": "Développement d’une application web pour inscrire les clients dans une banque digitale.",
+    "experience.table.body.row_3.cell_1": "Architecture logicielle",
+    "experience.table.body.row_3.cell_2": "Conception d’un Système de Gestion, pour garder la traçabilité dans une Entreprise Agricole.",
+
+    "projects.title": "Quels sont les exemples de projets sur lesquels j'ai travaillé ?",
+    "project_0.title": "Projet Internet Of Things",
+    "project_0.desc": "Développement d’un système de Suivie et de Contrôle des ampoules dans une salle, à travers une interface web et mobile.",
+
+    "project_1.title": "Plateforme E-learning avec JEE",
+    "project_1.desc": "Réalisation d’une plateforme e-learning",
+
+    "project_2.title": "Projet Création du ChatBot",
+    "project_2.desc": "Développement et l’Intégration d’un ChatBot dans La plateforme e-learning Moodle pour répondre aux questions récurrentes des étudiants.",
+
+    "project_3.title": "Projet Développement Mobile - Android",
+    "project_3.desc": "Participation à la réalisation d’une application pour les aveugles pour pouvoir lire du texte.",
+
+    "project_4.title": "Projet Compilation",
+    "project_4.desc": "Participation à la réalisation d’un compilateur LL(1) pour le Langage Pascal",
+
+    "project_5.title": "Machine learning for classification",
+    "project_5.desc": "Réalisation d’un système de classification des tweets en utilisant Différents algorithmes de classification. SVM, KNN et Decision Tree.",
+
+    "skills.title": "Quelles sont mes compétences ?",
+    "skills.table.head_1": "Domaine",
+    "skills.table.head_2": "Compétences",
+    "skills.table.body.row_1.cell_1": "Développement FrontEnd",
+    "skills.table.body.row_2.cell_1": "Développement BackEnd",
+    "skills.table.body.row_3.cell_1": "Développement Mobile",
+    "skills.table.body.row_4.cell_1": "Autres",
+    "skills.table.body.row_5.cell_2": "Humilité - Autonomie - Maîtrise de soi - Sérieux - Organisé - Communication - Esprit d'équipe",
+
+    "contact.title": "Me Contacter"
+  },
+
+  "en": {
+    "about-link": "About",
+    "experience-link": "Experience",
+    "projects-link": "Projects",
+    "skills-link": "Skills",
+    "contact-link": "Contact",
+
+    "hero.hi": "Hi, my name is:",
+    "hero.text_1": "I am a junior graduate engineer from",
+    "hero.text_2": "I am looking for a full stack enginner job, ideally with Django in",
+    "hero.text_3": "Backend and ReactJs in Frontend.",
+    "hero.btn_1.text": "Check out more",
+    "hero.btn_2.text": "Hire me",
+
+    "about.title": "Who Am I ?",
+    "about.subtitle": "About me",
+    "about.text_1": "A passionate and energized software engineer",
+    "about.text_2": "with an entrepreneurial mindset.I have practical",
+    "about.text_3": "knowledge building softwares and theoretical ",
+    "about.text_4": "knowledge in AI and Data Science.",
+    "about.text_5": "",
+
+    "experience.title": "What are my professional experiences ?",
+    "experience.table.head_1": "Experience",
+    "experience.table.head_4": "Company",
+    "experience.table.body.row_1.cell_1": "Final study internship",
+    "experience.table.body.row_1.cell_4": "Company",
+    "experience.table.body.row_1.cell_2.text_1": "Development of a web application to assess the societal aspects of companies.",
+    "experience.table.body.row_1.cell_2.text_2": "Scientific research about the different approaches used in recommender systems.",
+    "experience.table.body.row_2.cell_1": "Web development full stack",
+    "experience.table.body.row_2.cell_2": "Development of a web application to register clients into an e-banking service.",
+    "experience.table.body.row_3.cell_1": "Software Architecture",
+    "experience.table.body.row_3.cell_2": "Design of a Management System, to keep traceability in an Agricultural Companies.",
+
+    "projects.title": "What are the examples of projects I have worked on ?",
+    "project_0.title": "Internet Of Things Project",
+    "project_0.desc": "Development of a monitoring system to control light bulbs, through a web and mobile interface.",
+
+    "project_1.title": "E-learning Plateform with JEE",
+    "project_1.desc": "Development of an e-learning platform using JEE",
+
+    "project_2.title": "ChatBot Project",
+    "project_2.desc": "Development and Integration of a ChatBot in the Moodle e-learning platform to answer students' frequently asked questions.",
+
+    "project_3.title": "Mobile Development Project - Android",
+    "project_3.desc": "Participate in the development of an android application to make blind people able to read text.",
+
+    "project_4.title": "Compiler Project",
+    "project_4.desc": "Participate in the development of  LL(1) compiler for the Pascal programming language.",
+
+    "project_5.title": "Machine learning for classification",
+    "project_5.desc": "Build a tweets classifier using algotithms like SVM, KNN and Decision Tree.",
+
+    "skills.title": "What are my skills ?",
+    "skills.table.head_1": "Domain",
+    "skills.table.head_2": "Skills",
+    "skills.table.body.row_1.cell_1": "FrontEnd development",
+    "skills.table.body.row_2.cell_1": "BackEnd Developement",
+    "skills.table.body.row_3.cell_1": "Mobile developement",
+    "skills.table.body.row_4.cell_1": "Others",
+    "skills.table.body.row_5.cell_2": "Humility - Autonomy - Self-control - Serious - Organised - Communication - Team work",
+
+    "contact.title": "Get In touch"
+  }
+}
