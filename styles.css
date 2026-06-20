@@ -635,6 +635,10 @@ body::after {
 }
 
 @media (max-width: 768px) {
+    html {
+        font-size: 14px;
+    }
+
     .nav-toggle {
         display: block;
     }
@@ -665,6 +669,18 @@ body::after {
     .hero-content {
         flex-direction: column;
         text-align: center;
+    }
+
+    .cta-container {
+        flex-direction: column;
+        gap: 1rem;
+        width: 100%;
+    }
+
+    .cta-container .btn {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
     }
 
     .hero-image-container {
